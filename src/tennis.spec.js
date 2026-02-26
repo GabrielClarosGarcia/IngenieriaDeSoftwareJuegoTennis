@@ -8,11 +8,11 @@ describe("Tennis Scorer", () => {
   });
 
   //Jugador 1 anota 1 vez jugador 2 en 0=> "15 - Love"
-  //it("jugador 1 anota jugador dos en cero", () => {
-  //   let tennis = Tennis.new
-//tennis.player1Scores();
-  //  expect(tennis.score()).toEqual("Love - Love");
-  //});
+  it("jugador 1 anota jugador dos en cero", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores();
+    expect(tennis.score()).toEqual("15 - Love");
+  });
 
 });
 

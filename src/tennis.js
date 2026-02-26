@@ -1,7 +1,18 @@
 class Tennis {
-  score(){
-    return "Love - Love"
-  }
+    constructor() {
+        this.player1Points = 0;
+    }
+    score(){
+        let player1Score = "Love";
+        if(this.player1Points == 1){
+            player1Score= "15"
+        }
+        return player1Score+" - Love"
+    }
+
+    player1Scores(){
+        this.player1Points++;
+    }
 }
 
 export default Tennis;

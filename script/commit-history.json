@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8de607f6725d15ac4450b77dd9a99afaf562c144",
     "author": "israel antezana",
     "commit": {
       "date": "2026-02-26T13:59:49.000Z",
       "message": "refact: creamos clase para score y puntaje",
-      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/8de607f6725d15ac4450b77dd9a99afaf562c144"
     },
     "stats": {
       "total": 19,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:08:40.000Z",
+      "message": "feat: jugador 1 anota jugador 2 en cero",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 19,
+      "deletions": 8,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
