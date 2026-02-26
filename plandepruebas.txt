@@ -29,3 +29,11 @@ Jugador 1 anota 3 veces jugador 2 anota 3 veces=> "Deuce"
 Si el juego esta en Deuce jugador 1 anota => "Advantage for Player 1"
 estado en Advantage del jugador 1 anota una vez mas => "Game For Player"
 --Pruebas similares a lo anterior para jugador 2
+
+Para el diseno pensamos en esta estructura, que iremos desarrollando 
+incrementalmente:
+Class Tennis{
+    player1Scores() //incrementa puntos de jugador 1
+    player2Scores()  //incrementa puntos de jugador 2
+    score()  //genera el marcador
+}

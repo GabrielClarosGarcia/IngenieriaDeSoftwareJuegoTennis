@@ -228,9 +228,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ad7f737dc304e21cb471a8b5973e55e4149a50a5",
     "commitName": "fix: terminando la clase..",
     "commitTimestamp": 1772116300805,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "doc: documentacion sobre el diseno",
+    "commitTimestamp": 1772116727708,
+    "testId": 7
   }
 ]
