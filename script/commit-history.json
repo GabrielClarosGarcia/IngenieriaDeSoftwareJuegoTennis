@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bf15ef7d5d646186c70c3795826ed657f29e9d4b",
     "author": "israel antezana",
     "commit": {
       "date": "2026-02-26T14:13:49.000Z",
       "message": "feat: jugador 1 anota 2 veces",
-      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/bf15ef7d5d646186c70c3795826ed657f29e9d4b"
     },
     "stats": {
       "total": 9,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "israel antezana",
+    "commit": {
+      "date": "2026-02-26T14:18:28.000Z",
+      "message": "feat: jugador 1 anota 3 veces",
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -19,6 +19,13 @@ describe("Tennis Scorer", () => {
     tennis.player1Scores();
     expect(tennis.score()).toEqual("30 - Love");
   });
+  it("jugador 1 anota 3 veces jugador dos en cero", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    expect(tennis.score()).toEqual("40 - Love");
+  });
 
 });
 
