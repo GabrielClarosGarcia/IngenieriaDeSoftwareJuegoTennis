@@ -280,9 +280,79 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8b9de91a66172eb4ba3c9be6c29255d66c737c2b",
     "commitName": "feat: jugador 1 anota 4 veces, jugador 2 anota 0 veces",
     "commitTimestamp": 1772517571565,
     "testId": 8
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772517752113,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772518089565,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772518106879,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772518250193,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1772518272101,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772518376297,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1772518599883,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1772518657450,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 2 anota 1 vez y jugador 1 anota 0 veces",
+    "commitTimestamp": 1772518723704,
+    "testId": 9
   }
 ]
