@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6945de3074e53e0f551de1732e47218779c698bd",
     "author": "Gabriel Claros",
     "commit": {
       "date": "2026-03-03T06:45:08.000Z",
       "message": "refactor: deuce y jugador 1 anota",
-      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/HEAD"
+      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/6945de3074e53e0f551de1732e47218779c698bd"
     },
     "stats": {
       "total": 20,
@@ -281,6 +281,25 @@
     },
     "coverage": 100,
     "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Gabriel Claros",
+    "commit": {
+      "date": "2026-03-03T06:49:47.000Z",
+      "message": "refactor: deuce y jugador 2 anota, cambio en los if donde deciamos game para jugador 1 o jugador 2 porque habia conflicto",
+      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 19,
+      "deletions": 1,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }
