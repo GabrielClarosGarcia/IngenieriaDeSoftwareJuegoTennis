@@ -209,12 +209,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "41edb277b39a46b048f6f8d957cee79c909f4f61",
     "author": "Gabriel Claros",
     "commit": {
       "date": "2026-03-03T06:22:47.000Z",
       "message": "feat: jugador 2 anota 3 veces y jugador 1 anota 0 veces",
-      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/HEAD"
+      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/41edb277b39a46b048f6f8d957cee79c909f4f61"
     },
     "stats": {
       "total": 10,
@@ -224,6 +224,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Gabriel Claros",
+    "commit": {
+      "date": "2026-03-03T06:25:29.000Z",
+      "message": "feat: jugador 2 anota 4 veces y jugador 1 anota 0 veces",
+      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
