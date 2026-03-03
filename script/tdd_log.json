@@ -372,9 +372,31 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8994f68570a3f383dea77c67b520c6e54c6125ab",
     "commitName": "feat: jugador 2 anota 2 veces y jugador 1 anota 0 veces",
     "commitTimestamp": 1772518860419,
     "testId": 10
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1772518921329,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1772518945521,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 2 anota 3 veces y jugador 1 anota 0 veces",
+    "commitTimestamp": 1772518967884,
+    "testId": 11
   }
 ]
