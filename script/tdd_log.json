@@ -234,9 +234,55 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "eafb634edabc30e3087647172a71cab40ccccfd6",
     "commitName": "doc: documentacion sobre el diseno",
     "commitTimestamp": 1772116727708,
     "testId": 7
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1772517020167,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1772517025632,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1772517174813,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1772517256692,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1772517273357,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 anota 4 veces, jugador 2 anota 0 veces",
+    "commitTimestamp": 1772517571565,
+    "testId": 8
   }
 ]
