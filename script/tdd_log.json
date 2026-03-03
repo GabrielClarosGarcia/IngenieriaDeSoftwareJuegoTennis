@@ -546,9 +546,31 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a76334b1ebb34a24851fb484614a37c43de83377",
     "commitName": "refactor: deuce y jugador 2 anota, cambio en los if donde deciamos game para jugador 1 o jugador 2 porque habia conflicto",
     "commitTimestamp": 1772520587808,
     "testId": 15
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 1,
+    "numTotalTests": 14,
+    "timestamp": 1772520664263,
+    "success": false,
+    "testId": 16
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1772520875154,
+    "success": true,
+    "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: advantage jugador 1 y anota otra vez, con el cambio del anterior commit, el test pasa perfecto sin agregar nada mas",
+    "commitTimestamp": 1772521011363,
+    "testId": 16
   }
 ]
