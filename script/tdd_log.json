@@ -588,9 +588,15 @@
     "testId": 17
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5fcc6a0f5a3fd45f0054f4e2f443b34d349d7cd2",
     "commitName": "feat: creacion del UI para el juego, ademas de un arreglo en tennis.js para cuando van empatados 3-3, pasan a 4-3 y vuelven a estar empatados",
     "commitTimestamp": 1772522227337,
     "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: arreglo de error en presenter, que no cargaba bien la UI para probar el juego",
+    "commitTimestamp": 1772523478740,
+    "testId": 19
   }
 ]
