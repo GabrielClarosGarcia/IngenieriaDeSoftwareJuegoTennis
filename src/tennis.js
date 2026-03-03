@@ -15,7 +15,7 @@ class Tennis {
         if(this.player1Points == 3){
             player1Score= "40"
         }
-        if(this.player1Points == 4){
+        if(this.player1Points >= 4 && this.player1Points >= this.player2Points + 2){
             return "Game for player 1"
         }
         if(this.player2Points == 1){
@@ -33,6 +33,9 @@ class Tennis {
 
         if(this.player1Points == 3 && this.player2Points == 3){
             return "Deuce"
+        }
+        if(this.player1Points == 4 && this.player2Points == 3){
+            return "Advantage for Player 1"
         }
 
         return player1Score+" - "+player2Score

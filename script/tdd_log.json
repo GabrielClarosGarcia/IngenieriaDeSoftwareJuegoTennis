@@ -446,9 +446,79 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6eb11f145e955a619b1fa8c8284895c2cfbb7123",
     "commitName": "feat: jugador 1 anota 3 veces y jugador 2 anota 3 veces, deuce",
     "commitTimestamp": 1772519402520,
     "testId": 13
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772519479904,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772519551889,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772519580911,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772519609625,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1772520045596,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1772520179239,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772520193387,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1772520216942,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: deuce y jugador 1 anota",
+    "commitTimestamp": 1772520308248,
+    "testId": 14
   }
 ]
