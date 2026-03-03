@@ -304,12 +304,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "64b3d5b3e7cd7a62dcab4ee023b053780fff71e8",
     "author": "Gabriel Claros",
     "commit": {
       "date": "2026-03-03T06:56:51.000Z",
       "message": "refactor: advantage jugador 1 y anota otra vez, con el cambio del anterior commit, el test pasa perfecto sin agregar nada mas",
-      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/HEAD"
+      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/64b3d5b3e7cd7a62dcab4ee023b053780fff71e8"
     },
     "stats": {
       "total": 17,
@@ -319,6 +319,25 @@
     },
     "coverage": 100,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Gabriel Claros",
+    "commit": {
+      "date": "2026-03-03T07:00:45.000Z",
+      "message": "refactor: advantage jugador 2 y anota otra vez, con el cambio del anterior commit, el test pasa perfecto sin agregar nada mas",
+      "url": "https://github.com/GabrielClarosGarcia/IngenieriaDeSoftwareJuegoTennis/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }

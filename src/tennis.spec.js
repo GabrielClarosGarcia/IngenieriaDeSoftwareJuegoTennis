@@ -123,6 +123,22 @@ describe("Tennis Scorer", () => {
 
     expect(tennis.score()).toEqual("Game for player 1");
   });
+  it("Advantage jugador 2 y anota otra vez", () => {
+    let tennis = new Tennis();
+
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+
+    tennis.player2Scores();
+    tennis.player2Scores();
+
+    expect(tennis.score()).toEqual("Game for player 2");
+  });
 
 });
 
